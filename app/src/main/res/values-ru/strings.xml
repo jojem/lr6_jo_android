@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">лр6_Джо</string>
+    <string name="labString">Заклинания в Гарри Поттере</string>
+    <string-array name="stringArray">
+        <item>Алохомора</item>
+        <item>Ридикулус</item>
+        <item>Круцио</item>
+        <item>Акцио</item>
+        <item>Авада Кедавра</item>
+        <item>Империо</item>
+        <item>Сонорус</item>
+        <item>Редукто</item>
+        <item>Конфундо</item>
+        <item>Экспекто Патронум</item>
+        <item>Экспеллиармус</item>
+        <item>Левикорпус</item>
+        <item>Вингардиум Левиоса</item>
+        <item>Морсморде</item>
+        <item>Обливиэйт</item>
+        <item>Люмос</item>
+    </string-array>
+</resources>

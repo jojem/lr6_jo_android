@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">lr6_jo</string>
+    <string name="labString">Spells in Harry Potter</string>
+    <string-array name="stringArray">
+        <item>Alohomora</item>
+        <item>Riddikulus</item>
+        <item>Crucio</item>
+        <item>Accio</item>
+        <item>Avada Kedavra</item>
+        <item>Imperio</item>
+        <item>Sonorus</item>
+        <item>Reducto</item>
+        <item>Confundo</item>
+        <item>Expecto Patronum</item>
+        <item>Expelliarmus</item>
+        <item>Levicorpus</item>
+        <item>Wingardium Leviosa</item>
+        <item>Morsmordre</item>
+        <item>Obliviate</item>
+        <item>Lumos</item>
+    </string-array>
+</resources>
